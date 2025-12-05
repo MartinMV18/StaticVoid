@@ -56,6 +56,20 @@ From the project root:
 - Keep code style consistent with existing Java files (Consolas font in UI, similar color scheme).
 - Submit a pull request with a clear description of your changes.
 
+## Future Enhancements
+
+Planned or potential improvements for future versions:
+
+- **Save/Load system**: Persist player progress, inventory, and sector depth between sessions.
+- **Boss encounters**: Add special boss enemies with unique patterns, phases, and dialogue after certain depths.
+- **More item and weapon types**: Introduce armor, shields, and rare/legendary weapons with unique effects.
+- **Status effects**: Implement buffs and debuffs (poison, stun, shield, regen) that interact with existing stats.
+- **Expanded story events**: More branching narrative choices, endings, and story-driven combat scenarios.
+- **Difficulty modes**: Easy/Normal/Hard settings that adjust enemy stats, wave counts, and drop rates.
+- **Audio and visual polish**: Add sound effects, background music, and subtle animations for attacks and critical hits.
+- **Settings menu**: Allow players to tweak volume, text speed, color theme variants, and window size.
+- **Modular enemy/loot data**: Load enemies and loot tables from external JSON or XML to make balancing and modding easier.
+
 ## License
 
 This project is for educational and personal use. Respect all applicable copyright and intellectual property laws when modifying or distributing the code.
