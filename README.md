@@ -70,6 +70,11 @@ Planned or potential improvements for future versions:
 - **Settings menu**: Allow players to tweak volume, text speed, color theme variants, and window size.
 - **Modular enemy/loot data**: Load enemies and loot tables from external JSON or XML to make balancing and modding easier.
 
+## Sample Outputs
+![Combat encounter](images/CombatEncounter.png)
+![Story screen](images/StoryScreen.png)
+![Weapon upgrade](images/WeaponUpgrade.png)
+
 ## License
 
 This project is for educational and personal use. Respect all applicable copyright and intellectual property laws when modifying or distributing the code.
