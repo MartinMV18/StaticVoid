@@ -71,9 +71,9 @@ Planned or potential improvements for future versions:
 - **Modular enemy/loot data**: Load enemies and loot tables from external JSON or XML to make balancing and modding easier.
 
 ## Sample Outputs
-![Combat encounter](images/CombatEncounter.png)
-![Story screen](images/StoryScreen.png)
-![Weapon upgrade](images/WeaponUpgrade.png)
+![Combat encounter](Images/CombatEncounter.png)
+![Story screen](Images/StoryScreen.png)
+![Weapon upgrade](Images/WeaponUpgrade.png)
 
 ## License
 
